@@ -125,7 +125,7 @@ We would like to express our gratitude to:
 
 - 🎥 Data Sources: IMDb, Box Office Mojo, and other platforms for providing invaluable movie industry data.
 - 🎓 Moringa School: For supporting our learning journey.
-- 👥 Project Team (Group 5): For their dedication, insights, and collaboration in making this project a success.
+- 👥 Project Team: For their dedication, insights, and collaboration in making this project a success.
      - https://github.com/Allan-Ofula
      - https://github.com/rurigi-waweru
      - https://github.com/PamGodia
